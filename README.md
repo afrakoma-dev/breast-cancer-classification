@@ -99,5 +99,5 @@ breast-cancer-project/
 
 Afrakoma Julia Ouattara  
 Bioinformatics Student | Passionate about Machine Learning in Precision Medicine  
-[LinkedIn](https://www.linkedin.com/in/afrakoma-julia-ouattara-25a138307) · [GitHub](https://github.com/deinprofil)
+[LinkedIn](https://www.linkedin.com/in/afrakoma-julia-ouattara-25a138307) · [GitHub](https://github.com/afrakoma-dev)
 
