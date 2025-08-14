@@ -205,3 +205,25 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# macOS
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+
+# VS Code
+.vscode/
+
+# R history
+.Rhistory
+.RData
+.Rapp.history
+
+# System Trash (falls versehentlich getrackt)
+.Trash/
